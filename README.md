@@ -20,7 +20,7 @@ FlavorForecast is a React web application that allows users to find weather info
 ## Features
 
 ### Weather Information:
-  - Get real-time weather data for your current location.
+Get real-time weather data for your current location.
  
 ### Recipe Suggestions:
   - Receive recipe suggestions based on the weather conditions.
