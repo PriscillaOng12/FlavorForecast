@@ -19,24 +19,24 @@ FlavorForecast is a React web application that allows users to find weather info
 
 ## Features
 
-### Weather Information:
+- **Weather Information:**
 Get real-time weather data for your current location.
  
-### Recipe Suggestions:
+- **Recipe Suggestions:**
   - Receive recipe suggestions based on the weather conditions.
 
-### Dynamic Navigation:
+- **Dynamic Navigation:**
   - The navigation bar background color changes according to the current weather.
  
 ## API Integration
 
-- **Geolocation API**
+### Geolocation API
   - The Geolocation API is used to obtain the user's current location. This information is essential for fetching weather data and recipe suggestions relevant to the user's region.
 
-- **WeatherAPI**
+### WeatherAPI
   - The WeatherAPI is used to retrieve weather data for the user's location, including temperature, humidity, and weather conditions. The data is displayed in the app, and it influences the recipe suggestions.
 
-- **Edamam Recipe API**
+### Edamam Recipe API
   - The Edamam Recipe API is utilized to provide recipe suggestions tailored to the current weather conditions. Recipes are fetched and displayed based on the user's location and the weather.
  
 ## Changing Navigation Bar Background
